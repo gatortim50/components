@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="40px" viewBox="0 0 36 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>File Icon / MP4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.5,0 L26,0 L32,6 L32,34.5 C32,35.3284271 31.3284271,36 30.5,36 L5.5,36 C4.67157288,36 4,35.3284271 4,34.5 L4,1.5 C4,0.671572875 4.67157288,1.52179594e-16 5.5,0 Z" id="path-1"></path>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FAFAFA" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FAFAFA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="File-Icon-/-MP4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Page" fill="#FFFFFF" xlink:href="#path-1"></use>
+        <rect id="Rectangle" fill="#676767" fill-rule="nonzero" mask="url(#mask-2)" x="4" y="0" width="28" height="8"></rect>
+        <rect id="Corner" fill="url(#linearGradient-3)" mask="url(#mask-2)" x="26" y="0" width="6" height="6"></rect>
+        <path d="M16.2649995,17.3802485 C16.1855337,17.3305824 16.0937099,17.3042476 16,17.3042476 C15.7238576,17.3042476 15.5,17.5281053 15.5,17.8042476 L15.5,24.1957524 C15.5,24.2894622 15.5263347,24.381286 15.5760008,24.4607518 C15.722356,24.6949201 16.0308312,24.7661067 16.2649995,24.6197515 L21.3782032,21.4239992 C21.4425878,21.3837588 21.4969626,21.329384 21.5372029,21.2649995 C21.6835581,21.0308312 21.6123715,20.722356 21.3782032,20.5760008 L16.2649995,17.3802485 Z" id="Path" stroke="#C8C6CA" fill-opacity="0.251217165" fill="#C8C6CA" fill-rule="nonzero" mask="url(#mask-2)"></path>
+        <path d="M10,14 L26,14 C27.1045695,14 28,14.8954305 28,16 L28,26 C28,27.1045695 27.1045695,28 26,28 L10,28 C8.8954305,28 8,27.1045695 8,26 L8,16 C8,14.8954305 8.8954305,14 10,14 Z M11,15 L11,27 L25,27 L25,15 L11,15 Z M9,20 L9,22 L10,22 L10,20 L9,20 Z M9,24 L9,26 L10,26 L10,24 L9,24 Z M26,16 L26,18 L27,18 L27,16 L26,16 Z M26,20 L26,22 L27,22 L27,20 L26,20 Z M26,24 L26,26 L27,26 L27,24 L26,24 Z M9,16 L9,18 L10,18 L10,16 L9,16 Z" id="Combined-Shape" fill="#C8C6CA" fill-rule="nonzero" mask="url(#mask-2)"></path>
+    </g>
+</svg>

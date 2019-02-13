@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`It renders without any props 1`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 600;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-size: 34px;
+}
+
+<h1
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={6}
+/>
+`;
+
+exports[`It supports h1-h6 elements 1`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 600;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-size: 34px;
+}
+
+<h1
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={6}
+/>
+`;
+
+exports[`It supports h1-h6 elements 2`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 600;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-size: 24px;
+}
+
+<h2
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={6}
+/>
+`;
+
+exports[`It supports h1-h6 elements 3`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 600;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-size: 20px;
+}
+
+<h3
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={6}
+/>
+`;
+
+exports[`It supports h1-h6 elements 4`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 600;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-size: 16px;
+}
+
+<h4
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={6}
+/>
+`;
+
+exports[`It supports h1-h6 elements 5`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 600;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-size: 14px;
+}
+
+<h5
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={6}
+/>
+`;
+
+exports[`It supports h1-h6 elements 6`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 600;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+
+<h6
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={6}
+/>
+`;

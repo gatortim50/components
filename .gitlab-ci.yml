@@ -1,0 +1,14 @@
+image: node
+
+stages:
+  - test
+
+before_script:
+  - npm i
+
+test:
+  stage: test
+  allow_failure: true
+  script:
+    - npm test -- --coverage
+  coverage: /All files[^|]*\|[^|]*\s+([\d\.]+)/

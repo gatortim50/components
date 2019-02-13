@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Arrow Up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-/-Arrow-Up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M5.21125,12.79125 L16.38125,12.79125 L11.50125,17.67125 C11.11125,18.06125 11.11125,18.70125 11.50125,19.09125 C11.89125,19.48125 12.52125,19.48125 12.91125,19.09125 L19.50125,12.50125 C19.89125,12.11125 19.89125,11.48125 19.50125,11.09125 L12.92125,4.49125 C12.53125,4.10125 11.90125,4.10125 11.51125,4.49125 C11.12125,4.88125 11.12125,5.51125 11.51125,5.90125 L16.38125,10.79125 L5.21125,10.79125 C4.66125,10.79125 4.21125,11.24125 4.21125,11.79125 C4.21125,12.34125 4.66125,12.79125 5.21125,12.79125 Z" id="Shape" fill="#000000" fill-rule="nonzero" transform="translate(12.002500, 11.791250) rotate(-90.000000) translate(-12.002500, -11.791250) "></path>
+    </g>
+</svg>

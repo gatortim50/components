@@ -1,0 +1,466 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`It renders without any props 1`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<p
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 1`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<blockquote
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 2`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<figcaption
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 3`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<p
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 4`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<pre
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 5`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<a
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 6`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<abbr
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 7`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<b
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 8`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<bdi
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 9`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<bdo
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 10`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<cite
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 11`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<code
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 12`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<data
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 13`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<dfn
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 14`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<em
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 15`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<i
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 16`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<kbd
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 17`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<mark
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 18`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<q
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 19`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<s
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 20`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<samp
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 21`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<small
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 22`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<span
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 23`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<strong
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 24`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<sub
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 25`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<sup
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 26`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<time
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 27`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<tt
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 28`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<u
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 29`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<var
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;
+
+exports[`It supports text elements 30`] = `
+.c0 {
+  font-family: "HelveticaNeue",Arial,Helvetica,sans-serif;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+<label
+  className="c0"
+  fontFamily="sansSerif"
+  fontWeight={4}
+/>
+`;

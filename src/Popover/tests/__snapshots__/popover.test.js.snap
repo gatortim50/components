@@ -1,0 +1,576 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Popover renders 1`] = `
+.c0 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  max-width: 100%;
+  position: relative;
+}
+
+.c1 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  z-index: 10;
+  max-width: 100%;
+  position: absolute;
+  bottom: auto;
+  left: 0;
+  right: auto;
+  top: 100%;
+  -webkit-transform: translate(0,0);
+  -ms-transform: translate(0,0);
+  transform: translate(0,0);
+}
+
+<div
+  className="c0"
+  elevation={0}
+>
+  <button
+    onClick={[Function]}
+  >
+    Regular Popover
+  </button>
+  <div
+    className="c1"
+    elevation={0}
+  >
+    <div>
+      <p>
+        Popover content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Supports default visibility via isShown prop 1`] = `
+.c0 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  max-width: 100%;
+  position: relative;
+}
+
+.c1 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  z-index: 10;
+  max-width: 100%;
+  position: absolute;
+  bottom: auto;
+  left: 0;
+  right: auto;
+  top: 100%;
+  -webkit-transform: translate(0,0);
+  -ms-transform: translate(0,0);
+  transform: translate(0,0);
+}
+
+<div
+  className="c0"
+  elevation={0}
+>
+  <button
+    onClick={[Function]}
+  >
+    Regular Popover
+  </button>
+  <div
+    className="c1"
+    elevation={0}
+  >
+    <div>
+      <p>
+        Popover content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Supports different positions 1`] = `
+.c0 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  max-width: 100%;
+  position: relative;
+}
+
+.c1 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  z-index: 10;
+  max-width: 100%;
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  right: auto;
+  top: auto;
+  -webkit-transform: translate(-50%,0);
+  -ms-transform: translate(-50%,0);
+  transform: translate(-50%,0);
+}
+
+<div
+  className="c0"
+  elevation={0}
+>
+  <button
+    onClick={[Function]}
+  >
+    Regular Popover
+  </button>
+  <div
+    className="c1"
+    elevation={0}
+  >
+    <div>
+      <p>
+        Popover content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Supports different positions 2`] = `
+.c0 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  max-width: 100%;
+  position: relative;
+}
+
+.c1 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  z-index: 10;
+  max-width: 100%;
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: auto;
+  top: auto;
+  -webkit-transform: translate(0,0);
+  -ms-transform: translate(0,0);
+  transform: translate(0,0);
+}
+
+<div
+  className="c0"
+  elevation={0}
+>
+  <button
+    onClick={[Function]}
+  >
+    Regular Popover
+  </button>
+  <div
+    className="c1"
+    elevation={0}
+  >
+    <div>
+      <p>
+        Popover content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Supports different positions 3`] = `
+.c0 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  max-width: 100%;
+  position: relative;
+}
+
+.c1 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  z-index: 10;
+  max-width: 100%;
+  position: absolute;
+  bottom: 100%;
+  left: auto;
+  right: 0;
+  top: auto;
+  -webkit-transform: translate(0,0);
+  -ms-transform: translate(0,0);
+  transform: translate(0,0);
+}
+
+<div
+  className="c0"
+  elevation={0}
+>
+  <button
+    onClick={[Function]}
+  >
+    Regular Popover
+  </button>
+  <div
+    className="c1"
+    elevation={0}
+  >
+    <div>
+      <p>
+        Popover content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Supports different positions 4`] = `
+.c0 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  max-width: 100%;
+  position: relative;
+}
+
+.c1 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  z-index: 10;
+  max-width: 100%;
+  position: absolute;
+  bottom: auto;
+  left: 50%;
+  right: auto;
+  top: 100%;
+  -webkit-transform: translate(-50%,0);
+  -ms-transform: translate(-50%,0);
+  transform: translate(-50%,0);
+}
+
+<div
+  className="c0"
+  elevation={0}
+>
+  <button
+    onClick={[Function]}
+  >
+    Regular Popover
+  </button>
+  <div
+    className="c1"
+    elevation={0}
+  >
+    <div>
+      <p>
+        Popover content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Supports different positions 5`] = `
+.c0 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  max-width: 100%;
+  position: relative;
+}
+
+.c1 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  z-index: 10;
+  max-width: 100%;
+  position: absolute;
+  bottom: auto;
+  left: 0;
+  right: auto;
+  top: 100%;
+  -webkit-transform: translate(0,0);
+  -ms-transform: translate(0,0);
+  transform: translate(0,0);
+}
+
+<div
+  className="c0"
+  elevation={0}
+>
+  <button
+    onClick={[Function]}
+  >
+    Regular Popover
+  </button>
+  <div
+    className="c1"
+    elevation={0}
+  >
+    <div>
+      <p>
+        Popover content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Supports different positions 6`] = `
+.c0 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  max-width: 100%;
+  position: relative;
+}
+
+.c1 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  z-index: 10;
+  max-width: 100%;
+  position: absolute;
+  bottom: auto;
+  left: auto;
+  right: 0;
+  top: 100%;
+  -webkit-transform: translate(0,0);
+  -ms-transform: translate(0,0);
+  transform: translate(0,0);
+}
+
+<div
+  className="c0"
+  elevation={0}
+>
+  <button
+    onClick={[Function]}
+  >
+    Regular Popover
+  </button>
+  <div
+    className="c1"
+    elevation={0}
+  >
+    <div>
+      <p>
+        Popover content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Supports different positions 7`] = `
+.c0 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  max-width: 100%;
+  position: relative;
+}
+
+.c1 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  z-index: 10;
+  max-width: 100%;
+  position: absolute;
+  bottom: auto;
+  left: auto;
+  right: 100%;
+  top: 50%;
+  -webkit-transform: translate(0,-50%);
+  -ms-transform: translate(0,-50%);
+  transform: translate(0,-50%);
+}
+
+<div
+  className="c0"
+  elevation={0}
+>
+  <button
+    onClick={[Function]}
+  >
+    Regular Popover
+  </button>
+  <div
+    className="c1"
+    elevation={0}
+  >
+    <div>
+      <p>
+        Popover content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Supports different positions 8`] = `
+.c0 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  max-width: 100%;
+  position: relative;
+}
+
+.c1 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  z-index: 10;
+  max-width: 100%;
+  position: absolute;
+  bottom: auto;
+  left: 100%;
+  right: auto;
+  top: 50%;
+  -webkit-transform: translate(0,-50%);
+  -ms-transform: translate(0,-50%);
+  transform: translate(0,-50%);
+}
+
+<div
+  className="c0"
+  elevation={0}
+>
+  <button
+    onClick={[Function]}
+  >
+    Regular Popover
+  </button>
+  <div
+    className="c1"
+    elevation={0}
+  >
+    <div>
+      <p>
+        Popover content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Supports function as a child 1`] = `
+.c0 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  max-width: 100%;
+  position: relative;
+}
+
+.c1 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  z-index: 10;
+  max-width: 100%;
+  position: absolute;
+  bottom: auto;
+  left: 0;
+  right: auto;
+  top: 100%;
+  -webkit-transform: translate(0,0);
+  -ms-transform: translate(0,0);
+  transform: translate(0,0);
+}
+
+<div
+  className="c0"
+  elevation={0}
+>
+  <button
+    onClick={[Function]}
+  >
+    Regular Popover
+  </button>
+  <div
+    className="c1"
+    elevation={0}
+  >
+    <div>
+      <p>
+        Popover content
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Supports nested Popovers 1`] = `
+.c0 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  max-width: 100%;
+  position: relative;
+}
+
+.c1 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  z-index: 10;
+  max-width: 100%;
+  position: absolute;
+  bottom: auto;
+  left: 0;
+  right: auto;
+  top: 100%;
+  -webkit-transform: translate(0,0);
+  -ms-transform: translate(0,0);
+  transform: translate(0,0);
+}
+
+.c2 {
+  box-sizing: border-box;
+  box-shadow: 0 0 0 rgba(0,0,0,0.12);
+  z-index: 11;
+  max-width: 100%;
+  position: absolute;
+  bottom: auto;
+  left: 0;
+  right: auto;
+  top: 100%;
+  -webkit-transform: translate(0,0);
+  -ms-transform: translate(0,0);
+  transform: translate(0,0);
+}
+
+<div
+  className="c0"
+  elevation={0}
+>
+  <button
+    onClick={[Function]}
+  >
+    Nested Popover
+  </button>
+  <div
+    className="c1"
+    elevation={0}
+  >
+    <div>
+      <p>
+        Popover content
+      </p>
+      <div
+        className="c0"
+        elevation={0}
+      >
+        <button
+          onClick={[Function]}
+        >
+          Regular Popover
+        </button>
+        <div
+          className="c2"
+          elevation={0}
+        >
+          <div>
+            <p>
+              Popover content
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

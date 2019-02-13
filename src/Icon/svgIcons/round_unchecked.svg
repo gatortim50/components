@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Toggle / Round Unchecked</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-/-Toggle-/-Round-Unchecked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,21 C7.0275,21 3,16.9725 3,12 C3,7.0275 7.0275,3 12,3 C16.9725,3 21,7.0275 21,12 C21,16.9725 16.9725,21 12,21 Z M12,19 C15.8675,19 19,15.8675 19,12 C19,8.1325 15.8675,5 12,5 C8.1325,5 5,8.1325 5,12 C5,15.8675 8.1325,19 12,19 Z" id="ic_radio_button_checked_24px" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container renders correctly 1`] = `
+.c0 {
+  box-sizing: border-box;
+  margin: auto;
+  width: 360px;
+  max-width: 100%;
+}
+
+@media screen and (min-width:600px) {
+  .c0 {
+    width: 600px;
+  }
+}
+
+@media screen and (min-width:840px) {
+  .c0 {
+    width: 1080px;
+  }
+}
+
+@media screen and (min-width:1284px) {
+  .c0 {
+    width: 1284px;
+  }
+}
+
+<div
+  className="medable-ui c0"
+  width={
+    Array [
+      "360px",
+      "600px",
+      "1080px",
+      "1284px",
+    ]
+  }
+>
+  Children
+</div>
+`;
