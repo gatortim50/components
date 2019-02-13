@@ -22,7 +22,8 @@ Active development and merge requests happen on the `development` branch.
 ### Steps to setup the local repository
 ```js
 // Clone the repository
-git clone components.git web-components
+git clone git@github.com:gatortim50/components.git web-components
+
 
 // Move into the web-components directory
 cd web-components
