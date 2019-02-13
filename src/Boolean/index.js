@@ -25,7 +25,6 @@ const StyledText = styled(Text).attrs(props => ({
   box-sizing: border-box;
   width: fit-content;
   color: ${themeGet('colors.lighterGray')};
-  border: ${props => `1px solid ${themeGet('colors.lighterGray')(props)}`};
   border-radius: 12px;
   padding-right: 20px;
   font-size: ${themeGet('fontSizes.0')};
@@ -33,6 +32,7 @@ const StyledText = styled(Text).attrs(props => ({
   letter-spacing: ${themeGet('letterSpacing.1')};
   line-height: ${themeGet('lineHeight.1')};
   height: 24px;
+  border: 1px solid;
   white-space: nowrap;
   ${checkboxVariants};
   ${StyleCheckbox} * {

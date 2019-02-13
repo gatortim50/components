@@ -73,7 +73,8 @@ storiesOf('Layout Fields', module).add('Examples', () => (
         description,
         value: description,
         onChange: stringValidator,
-        weight: 2.0
+        weight: 2.0,
+        lineHeight: 2.0
       },
       {
         Component: AnnotatedString,
